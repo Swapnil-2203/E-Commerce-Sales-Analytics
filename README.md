@@ -54,11 +54,12 @@ The dashboard provides a quick overview of:
 The dashboard provides an interactive view of e-commerce sales performance.
 
 Users can filter the data by:
-
-- Country
 - Product Category
 
 The visuals update dynamically based on the selected filters.
+
+<img width="1312" height="740" alt="image" src="https://github.com/user-attachments/assets/80bf29dd-7f86-4a2d-a18b-ebfd8a5f41ab" />
+
 
 ## Files Included
 
